@@ -19,3 +19,7 @@ Görsel açıdan zengin ve kullanıcı dostu arayüz.
 Oyunun ilerlemesiyle zorluk seviyesinin artması.
 Harita Bulmacası, eğlenceli ve öğretici bir deneyim sunarak kullanıcıları coğrafya bilgilerini geliştirmeye teşvik eder ve rekabetçi bir ortamda eğlenceli bir oyun deneyimi sunar.
 
+
+Kurulum : config.php Veri tabanınıza Göre Düzenleyin
+index.php Veri tabanınıza Göre Düzenleyin
+Oyun.sql Veritabanına Ekleyin Ve Oyun Hazır 
