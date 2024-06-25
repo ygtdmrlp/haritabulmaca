@@ -1,0 +1,21 @@
+Oyun Adı: Harita Bulmacası
+
+Oyunun Amacı:
+
+Harita Bulmacası, kullanıcıların dünya haritası üzerinde belirli yerleri tanımlayarak puan kazanmayı amaçlayan eğlenceli bir oyundur. Oyuncular, harita üzerinde rastgele seçilen yerleri isimlendirmeye çalışırken coğrafya bilgilerini test eder ve geliştirirler.
+
+Nasıl Oynanır:
+
+Kayıt Ol / Giriş Yap: Oyuna başlamak için kullanıcılar öncelikle kayıt olmalı veya giriş yapmalıdır.
+Oyun Ekranı: Oyun ekranında kullanıcılar, harita üzerinde rastgele seçilen bir yerin adını tahmin etmelidir.
+Doğru Tahmin: Eğer kullanıcı doğru bir şekilde yerin adını tahmin ederse, puan kazanır ve bir sonraki yer için yeni bir görev alır.
+Skor Tablosu: Oyuncuların skorları, tüm oyuncuların skorlarını gösteren bir tabloda görüntülenir. En yüksek skorları elde eden oyuncular liderlik tablosunda yer alır.
+Oyun Hakkında: Oyuncular, oyunun kurallarını, puanlama sistemini ve daha fazlasını öğrenmek için "Oyun Hakkında" bölümüne göz atabilirler.
+Oyun Özellikleri:
+
+Harita üzerinde rastgele seçilen yerlerin tanımlanması.
+Kullanıcıların puan kazanması ve liderlik tablosunda yer alması.
+Görsel açıdan zengin ve kullanıcı dostu arayüz.
+Oyunun ilerlemesiyle zorluk seviyesinin artması.
+Harita Bulmacası, eğlenceli ve öğretici bir deneyim sunarak kullanıcıları coğrafya bilgilerini geliştirmeye teşvik eder ve rekabetçi bir ortamda eğlenceli bir oyun deneyimi sunar.
+
